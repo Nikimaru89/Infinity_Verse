@@ -1,0 +1,17 @@
+.div {
+    width: 25%;
+    min-width: 303px;
+    max-width: 350px;
+    margin-bottom: 20px;
+}
+
+.egg {
+    background-color: rgba($color: #000000, $alpha: 0.5);
+    width: 299px;
+    height: 299px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #D6D6D8;
+}
